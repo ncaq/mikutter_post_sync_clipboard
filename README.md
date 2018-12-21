@@ -1,0 +1,3 @@
+# mikutter_post_sync_clipboard
+
+mikutterで投稿した内容をクリップボードにも保存します.
